@@ -1,0 +1,1 @@
+aws ec2 run-instances --image-id ami-0022f774911c1d690 --count 1 --instance-type t2.micro --key-name uma --security-groups launch-wizard-2 --region us-east-1
